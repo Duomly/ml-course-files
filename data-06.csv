@@ -1,0 +1,9 @@
+name,gender,degree,position,experience,salary
+William,m,doctor,data scientist,15,105
+Peter,m,bachelor,back end dev,20,102
+Susan,f,master,data scientist,12,98
+Mary,f,bachelor,back end dev,11,95
+Ann,f,bachelor,front end dev,10,
+John,m,master,back end dev,5,90
+Michael,m,none,front end dev,8,86
+Helen,f,none,front end dev,2,60
